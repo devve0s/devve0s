@@ -73,10 +73,12 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devve0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devve0s&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=devve0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devve0s&layout=compact&theme=tokyonight" alt="" height="180" />
 </p>
 
 ---
 
 ## 📫 Contact with me
+[![Instagram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.google.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)
