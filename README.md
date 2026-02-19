@@ -73,8 +73,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=devve0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devve0s&layout=compact&theme=tokyonight" alt="" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devve0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devve0s&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
